@@ -1,0 +1,1 @@
+../nodejs/bin/calculator.thrift
